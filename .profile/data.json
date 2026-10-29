@@ -1,0 +1,273 @@
+{
+ "key": "4478d1b6",
+ "stars": 0,
+ "contributions": 7,
+ "repos": 17,
+ "followers": 3,
+ "languages": [],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 29,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 1
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "DynamicKFD",
+   "url": "https://github.com/kussaqqqehateyou/DynamicKFD",
+   "text": "Enable Dynamic Island using KFD",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "kussaqqqehateyou",
+   "url": "https://github.com/kussaqqqehateyou/kussaqqqehateyou",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Eco-Youtube_Music",
+   "url": "https://github.com/kussaqqqehateyou/Eco-Youtube_Music",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "r7-darksword-rce",
+   "url": "https://github.com/kussaqqqehateyou/r7-darksword-rce",
+   "text": "GhostWave aka \"R7 DarkSword\" RCE",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Heroku",
+   "url": "https://github.com/kussaqqqehateyou/Heroku",
+   "text": "The most fresh and updateable developer-oriented Telegram userbot",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pois0nSword",
+   "url": "https://github.com/kussaqqqehateyou/pois0nSword",
+   "text": "A demonstration of read write using cve-2025-43529 on iOS 26.1",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "9820-bootloaders_and_modems",
+   "url": "https://github.com/kussaqqqehateyou/9820-bootloaders_and_modems",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Nugget-Mobile",
+   "url": "https://github.com/kussaqqqehateyou/Nugget-Mobile",
+   "text": "iOS on-device version of Nugget",
+   "fork": true,
+   "stars": 0,
+   "language": "Swift",
+   "topics": []
+  },
+  {
+   "name": "Nugget",
+   "url": "https://github.com/kussaqqqehateyou/Nugget",
+   "text": "Unlock the fullest potential of your device",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "cape-to-preview",
+   "url": "https://github.com/kussaqqqehateyou/cape-to-preview",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "vibranceGUI",
+   "url": "https://github.com/kussaqqqehateyou/vibranceGUI",
+   "text": "A Windows Utility that automates NVIDIAs Digitial Vibrance Control and AMDs Saturation for Games, e.g. Counter-Strike: Global Offensive",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Dopamine2-roothide",
+   "url": "https://github.com/kussaqqqehateyou/Dopamine2-roothide",
+   "text": "Dopamine is a semi-untethered jailbreak for iOS 15 and 16",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "GPU-Buyers-Guide",
+   "url": "https://github.com/kussaqqqehateyou/GPU-Buyers-Guide",
+   "text": "Repo for GPU Buyers Guide",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "uYouPlus",
+   "url": "https://github.com/kussaqqqehateyou/uYouPlus",
+   "text": "uYou+ is a modified version of uYou (made by @MiRO92) with additional features and mainly made for non jailbroken users!",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "XNU_KERNEL_RESEARCH",
+   "url": "https://github.com/kussaqqqehateyou/XNU_KERNEL_RESEARCH",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "Bootstrap",
+   "url": "https://github.com/kussaqqqehateyou/Bootstrap",
+   "text": "A full featured bootstrap for ios14.0~17.0 (A8~A17,M1+M2)",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "Provision",
+   "url": "https://github.com/kussaqqqehateyou/Provision",
+   "text": "Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.",
+   "fork": true,
+   "stars": 0,
+   "language": "D",
+   "topics": []
+  }
+ ]
+}
